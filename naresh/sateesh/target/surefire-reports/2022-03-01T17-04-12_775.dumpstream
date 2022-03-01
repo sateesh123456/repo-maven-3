@@ -1,0 +1,6 @@
+# Created at 2022-03-01T17:04:13.245
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option PermSize=256m; support was removed in 8.0
+
+# Created at 2022-03-01T17:04:13.246
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=512m; support was removed in 8.0
+
